@@ -1,0 +1,3 @@
+sudo cp ~/newprofile /etc/profile;
+sudo cp ~/newenv /etc/environment;
+sudo cp ~/newbashrc /home/${names[$i]}/.bashrc
