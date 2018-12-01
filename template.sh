@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Initialize correct computer list file
 if [ -z $2 ];
 then
     readarray -t lines < "computerlist.txt"
