@@ -8,6 +8,7 @@ else
     readarray -t lines < $2
 fi
 
+#Declare associative arrays for computer names and program pid's
 declare -A names
 declare -A waitpids
 
