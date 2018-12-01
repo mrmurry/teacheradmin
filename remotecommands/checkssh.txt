@@ -1,0 +1,1 @@
+echo "user: ${names[$i]}, computer: $i"

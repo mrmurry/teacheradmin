@@ -10999,3 +10999,15 @@ ssh: connect to host ws-5cd8217rm2 port 22: No route to host
 ssh: connect to host ws-5cd8217rm2 port 22: No route to host
 lost connection
 lost connection
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+ssh: Could not resolve hostname ip: Name or service not known
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+ssh: Could not resolve hostname ip: Name or service not known
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+ssh: Could not resolve hostname ip: Name or service not known
+Must be connected to a terminal.
+Must be connected to a terminal.
+ssh: connect to host 10.1.1.1 port 22: Connection timed out
+ssh: connect to host 10.1.1.1 port 22: Connection timed out
+ssh: connect to host 10.1.1.1 port 22: Connection timed out
