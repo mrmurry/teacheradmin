@@ -1,0 +1,6 @@
+sessionname shared-session
+multiuser on
+#defwritelock on
+acladd screener
+aclchg screener -wx "#?"
+aclchg screener +x "detach"

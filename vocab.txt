@@ -1,0 +1,24 @@
+
+
+C language vocabulary
+Preprocessor Directive
+Declaration
+Definition
+Variable
+Function
+Block
+Scope
+Names
+User-Defined
+Data
+Datatype
+Variable
+Integer, int
+Character, char
+String
+Scientific Notation
+Floating Point, float
+Double precision, double
+Storage Class, auto, static
+Scope
+Global, Local

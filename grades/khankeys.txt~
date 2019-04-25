@@ -1,0 +1,18 @@
+ConsumerKey: 9Rf9vU58tNzzw68k
+ConsumerSecret: vwqBBHf5xZUTedyP 
+
+https://www.khanacademy.org/api/auth2/request_token
+https://www.khanacademy.org/api/auth2/authorize
+https://www.khanacademy.org/api/auth2/access_token
+
+curl -d "oauth_consumer_key=9Rf9vU58tNzzw68k&oauth_nonce=1544823846&oauth_version=1.0&oauth_signature=ZDYyZmMzYTk0ZTdmYzlkMmU1NDYwYmIyMjA1ZjI1MjYxYjc0MWRiYw==&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1544823846" -X POST https://www.khanacademy.org/api/auth2/request_token
+
+oauth_timestamp = Math.round((new Date()).getTime() / 1000.0);
+
+"oauth_consumer_key=9Rf9vU58tNzzw68k&oauth_nonce=1544823846&oauth_version=1.0&oauth_signature=ZDYyZmMzYTk0ZTdmYzlkMmU1NDYwYmIyMjA1ZjI1MjYxYjc0MWRiYw==&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1544823846"
+oauth_consumer_key=9Rf9vU58tNzzw68k&
+oauth_nonce=1544823846&
+oauth_version=1.0&
+oauth_signature=ZDYyZmMzYTk0ZTdmYzlkMmU1NDYwYmIyMjA1ZjI1MjYxYjc0MWRiYw==&
+oauth_signature_method=HMAC-SHA1&
+oauth_timestamp=1544823846&

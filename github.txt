@@ -1,0 +1,10 @@
+Justin C - Add ssh key to github
+Donald - Must verify email for github
+Justin L - Add git globals; add ssh key to github
+Roy - Add ssh key to github
+
+Screener problems
+Arturo computer3
+Maria computer35
+
+add line

@@ -1,0 +1,4 @@
+screen -t MurryScreen env SCREEN_CONF_DIR=~/murry SCREEN_CONF=screenrc ssh screener@teacherpc
+split
+focus
+screen -t StudentScreen

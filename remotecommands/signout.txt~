@@ -1,0 +1,3 @@
+sudo -i -u ${names[$i]} firefox "accounts.google.com/logout";
+sudo -i -u ${names[$i]} firefox "khanacademy.org/logout";
+

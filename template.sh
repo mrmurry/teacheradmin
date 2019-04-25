@@ -22,7 +22,7 @@ FILECOMMAND=$(cat $1)
 CMDTIME=$(date | awk '{print $4}')
 NOPATH=${1#remotecommands/*}
 ERRORFILE="$HOME/teacheradmin/failedlists/${NOPATH%.*}.err-$CMDTIME"
-echo $ERRORFILE
+#echo $ERRORFILE
 
 for i in "${!names[@]}"
 do

@@ -1,6 +1,5 @@
-sessionname shared-session
-multiuser on
-#defwritelock on
-acladd screener
-aclchg screener -wrx "#"
-aclchg screener +x "detach"
+screen -t MurryScreen env SCREEN_CONF_DIR=~/murry SCREEN_CONF=screenrc ssh screener@teacherpc
+select 0
+split
+focus
+screen -t StudentScreen

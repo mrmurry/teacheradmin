@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("%i\n", 'a');
+    printf("%i\n", 'a'+5);
+    return 0;
+}
